@@ -1,0 +1,16 @@
+{
+  "name": "level-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "make-level.js",
+  "scripts": {
+    "make": "node make-level.js > level.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pngjs": "^5.0.0"
+  }
+}
